@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="newprotocol"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newprotocol">
+				<Option output="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/newprotocol" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/include"/>
+					<Add directory="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/include/darkmatter"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin18/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin18/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin18"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin18/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin18/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin18/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 newprotocol"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newprotocol/fast">
+				<Option output="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/newprotocol" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/include"/>
+					<Add directory="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/include/darkmatter"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin18/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin18/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin18"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin18/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin18/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin18/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 newprotocol/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/include/darkmatter/OPRF.h">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/include/darkmatter/PRF.hpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/include/darkmatter/integer_pack.h">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/include/darkmatter/lookup_functions.h">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/include/darkmatter/mains.hpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/include/darkmatter/packedMod2.hpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/include/darkmatter/packedMod3.hpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/include/darkmatter/unpacked_PRF_central.h">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/src/OPRF.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/src/OT.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/src/PRF.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/src/Toeplitz-by-x.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/src/integer_pack.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/src/lookup_functions.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/src/newprotocol.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/src/packed_PRF_central.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/src/unpacked_PRF_central.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/tests/test_PRF.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/tests/test_Packed_PRF.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/tests/test_central_int_packed.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/tests/test_dmprotocol.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/tests/test_independent_lookup.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/tests/test_lookup.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/tests/test_newprotocol.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/tests/test_oprf.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/tests/test_packed_PRF_central_lookup.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/tests/test_unpacked_PRF.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/tests/test_unpacked_phase1.cpp">
+			<Option target="newprotocol"/>
+		</Unit>
+		<Unit filename="/Users/thalevi/Documents/research/PRFs/git/darkmatter/PRF-dark-matter-project/code/newprotocol/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
